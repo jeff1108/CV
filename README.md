@@ -8,10 +8,10 @@ Since June 2018, I have been studying at Makers Academy, where I have been devel
 #### Communication
 My experience in the customer service industry need to communicate face-in-face to the customers, which means that my actions direct affect the customers attitude towards to brand image. Therefore, those job experience taught me how to treat the customers into the best way and communicate with customers. For example, providing individualized service to all customers and well strain capacity. Depend on customers’ needs and doubt, I need to quickly recommend the products and answer them in the best way which make them satisfied. I demonstrated the ability to resolve a variety of requirement and problem. I consistently resolve work problems by addressing the customer's needs by being polite and understanding
 
-####Analysis
+#### Analysis
 During my college life, I have joined many activities, such as Junzi corporation survey, which is reflect the genuine perception of the Hong Kong public about the extent to corporation action. Within the survey, I developed my emotion intelligence skills where we encountered many difficulties through interview. I need to be calm and patient through the interview, explain the aim to our interviewee and after that we classify the data and analyse it. Even there was a conflict between my team mate and I, I will be patient to listen to them and find our consensus and solution
 
-##EDUCATION 
+## EDUCATION 
 
 #### Makers Academy (June to August 2018)
 Curious and passionate about code<br>
@@ -28,7 +28,7 @@ BBA(Hons) in Banking and Finance
 Associate in Business Administration
 #### Henrietta Secondary School (2008 – 2013)
 
-##EXPERENCE
+## EXPERENCE
 
 #### Part-time Sales, Bargain sale in Fenix Hong Kong Ltd (2014) 
 Determine customer needs, assist with outfitting options, feature and benefits of our products 
